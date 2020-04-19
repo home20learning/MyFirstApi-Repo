@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HP elite 6300\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HP elite 6300\\.nuget\\packages"
+    ]
+  }
+}
