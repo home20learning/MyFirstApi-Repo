@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AngularCoreApiOne.Models;
 using AngularCoreApiOne.Repos;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
@@ -14,15 +15,18 @@ namespace AngularCoreApiOne.Controllers
     [ApiController]
     public class EmployeeController : ControllerBase
     {
-        private IEmployeeRepository _employeeRepository;
+        private readonly IEmployeeRepository employeeRepository;
+
         public EmployeeController(IEmployeeRepository employeeRepository)
         {
-            _employeeRepository = employeeRepository;
+            this.employeeRepository = employeeRepository;
         }
-        public EmployeeInfo getEmployeeList()
+               public EmployeeInfo Get()
         {
-            return _employeeRepository.GetEmployeeList();
+            return employeeRepository.GetEmployeeList();
 
         }
+
+       
     }
 }

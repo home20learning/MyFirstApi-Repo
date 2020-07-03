@@ -9,5 +9,6 @@ namespace AngularCoreApiOne.Repos
     public interface IEmployeeRepository
     {
         public EmployeeInfo GetEmployeeList();
+        public EmployeeInfo GetEmployee(int id);
     }
 }

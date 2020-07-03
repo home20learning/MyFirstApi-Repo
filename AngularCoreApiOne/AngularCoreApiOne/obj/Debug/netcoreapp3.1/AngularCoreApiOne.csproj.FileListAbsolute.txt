@@ -88,5 +88,10 @@ C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\Angula
 C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\obj\Debug\netcoreapp3.1\AngularCoreApiOne.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\obj\Debug\netcoreapp3.1\AngularCoreApiOne.csproj.CopyComplete
+C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\HP elite 6300\Documents\GitHub\MyFirstApi-Repo\AngularCoreApiOne\AngularCoreApiOne\obj\Debug\netcoreapp3.1\AngularCoreApiOne.MvcApplicationPartsAssemblyInfo.cache
